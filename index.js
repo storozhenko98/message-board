@@ -1,5 +1,5 @@
-const urlGET = "http://anon-board.a2hosted.com/";
-const urlPOST = "http://anon-board.a2hosted.com/getter";
+const urlGET = "https://anon-board.a2hosted.com/";
+const urlPOST = "https://anon-board.a2hosted.com/getter";
 
 //async
 const asyncAPI = {
